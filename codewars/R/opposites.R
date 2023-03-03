@@ -1,0 +1,1 @@
+lovefunc <- function(flower1, flower2){ sum(flower1, flower2) %% 2 != 0 }
